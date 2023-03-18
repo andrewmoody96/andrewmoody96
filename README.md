@@ -1,16 +1,15 @@
-Under Construction -- Check back soon for more about me!
+Welcome to my page. I'm Andrew, and I like music, development, and 72° days with a breeze. 
 
-<!--
-**andrewmoody96/andrewmoody96** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 💼 I’m currently working on: 
+ - [Chocolate In Your Pocket](https://github.com/andrewmoody96/ciyp) Original music from my band Chocolate In Your Pocket.
+ - [Dive Buddy](https://github.com/P3-sharkBait/diveBuddy),a team effort with @Tward9.
+ - [zZSR Bingo!](https://github.com/andrewmoody96/csrBingo), a BINGO! game to share with co-workers. 
+------
+- 🌱 I’m currently learning RemixJS and Python. 
+- 🎧 Ask me about the music I'm working on!
+- 📫 Contact:
+ - [Linktree](https://linktr.ee/migbood)
+ - [Call/Text](tel:217-303-9449)
+ - [Email](mailto:andrew.moody96@gmail.com)
+- ⚡ Fun fact: I grew up in a town with a population of ~93. 
