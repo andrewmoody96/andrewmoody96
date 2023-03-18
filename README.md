@@ -3,7 +3,7 @@ Welcome to my page. I'm Andrew, and I like music, development, and 72° days wit
 
 - 💼 I’m currently working on: 
   - [Chocolate In Your Pocket](https://github.com/andrewmoody96/ciyp) Original music from my band Chocolate In Your Pocket.
-  - [Dive Buddy](https://github.com/P3-sharkBait/diveBuddy),a team effort with @Tward9.
+  - [Dive Buddy](https://github.com/P3-sharkBait/diveBuddy), a team effort with @Tward9.
   - [zZSR Bingo!](https://github.com/andrewmoody96/csrBingo), a BINGO! game to share with co-workers. 
 ------
 - 🌱 I’m currently learning RemixJS and Python. 
