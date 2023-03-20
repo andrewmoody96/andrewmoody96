@@ -53,8 +53,8 @@ What I've Been Working On
 
 More About Me
 ------
-🌱 I’m currently learning RemixJS and Python. 
-<br>
-🎧 Ask me about the music I'm working on!
-<br>
-⚡ Fun fact: I grew up in a town with a population of ~93. 
+#### Learning:
+![Remix](https://img.shields.io/badge/remix-%23000.svg?style=for-the-badge&logo=remix&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+
+#### 🎧 Ask me about the music I'm working on!
