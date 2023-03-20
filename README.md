@@ -1,4 +1,19 @@
-Welcome to my page. I'm Andrew, and I like music, development, and 72° days with a breeze. 
+Hello, my name is Andrew!
+------
+
+I am a full-stack developer with a focus on front-end technologies. I am seeking an opportunity to use my skills in development and my creative side to build attractive, real-world solutions for users everywhere. 
+
+Since gaining certification in the MERN stack, I have continued to build my portfolio through personal projects such as [CIYP](https://github.com/andrewmoody96/ciyp) (a site for my band, Chocolate In Your Pocket) and [Dive Buddy](https://github.com/P3-sharkBait/diveBuddy) (a dive computer application with a social network for those who love to scuba dive), self-guided courses, and, of course, lots of time spent in the docs.
+
+#### Please, feel free to check out my [portfolio](https://andrewmoody96.github.io/portfolio-react/) to see what I'm working on now!
+
+Contact
+------
+  🔗 [Linktree](https://linktr.ee/migbood)
+  <br>
+  ☎️ Cell Phone: 217-303-9449
+  <br>
+  ✉️ Email: andrew.moody96@gmail.com
 
 
 - 💼 I’m currently working on: 
@@ -8,8 +23,4 @@ Welcome to my page. I'm Andrew, and I like music, development, and 72° days wit
 ------
 - 🌱 I’m currently learning RemixJS and Python. 
 - 🎧 Ask me about the music I'm working on!
-- 📫 Contact:
-  - [Linktree](https://linktr.ee/migbood)
-  - [Call/Text](tel:217-303-9449)
-  - [Email](mailto:andrew.moody96@gmail.com)
 - ⚡ Fun fact: I grew up in a town with a population of ~93. 
