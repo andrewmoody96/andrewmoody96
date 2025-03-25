@@ -48,8 +48,7 @@ Contact
 What I've Been Working On
 ------
   - [Chocolate In Your Pocket](https://github.com/andrewmoody96/ciyp) A site for my band, Chocolate In Your Pocket Built using React, NodeJS/Express, TailwindCSS, & MongoDB Atlas.
-  - [Echoes of Despair](https://github.com/justinhymer/EchoesWebsite), a site for an upcoming project by [@justinhymer](https://github.com/justinhymer).
-  - [Dive Buddy](https://github.com/P3-sharkBait/diveBuddy), a dive computer application with a social network for those who love to scuba dive. Building this in Remix with [@Tward9](https://github.com/Tward9).
+  - [Gremlen Studios](https://www.gremlenstudios.com/) Working on this site for Gremlen Studios in Aurora, IL. Learning how to use the Wix API in the process.
 
 More About Me
 ------
