@@ -56,7 +56,8 @@ More About Me
 ------
 #### Learning:
 ![Django](https://img.shields.io/badge/Django-%23092E20.svg?logo=django&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff)
 ![Postgres](https://img.shields.io/badge/Postgres-%23316192.svg?logo=postgresql&logoColor=white)
 
-#### 🎧 Ask me about the music I'm working on! -- Click <a href="https://linktr.ee/chocolateinyourpocket" target="_blank">here</a> to hear some.
+#### 🎧 Ask me about the music I'm working on!
+<a href="https://linktr.ee/chocolateinyourpocket?target=_blank" target="_blank">Listen Now!</a>
