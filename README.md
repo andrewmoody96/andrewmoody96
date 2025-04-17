@@ -1,7 +1,7 @@
 Hello, my name is Andrew!
 ------
 
-I am a full-stack developer with a focus on front-end technologies. I am seeking an opportunity to use my skills in development and my creative side to build attractive, real-world solutions for users everywhere. 
+I am a full-stack developer with a focus on front-end technologies. I am seeking an opportunity to use my skills in development and my creative side to build attractive, real-world solutions for users everywhere. -- In my free time, I play original music with my band, Chocolate In Your Pocket. [Check out our website for music, upcoming shows, and more!](https://www.chocolateinyourpocket.com/) 
 
 Skills
 ------
