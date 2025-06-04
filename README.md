@@ -43,9 +43,7 @@ Contact
 ------
   🔗 [Linktree](https://linktr.ee/migbood)
   <br>
-  ☎️ Cell Phone: 217-303-9449
-  <br>
-  ✉️ Email: andrew.moody96@gmail.com
+  ✉️ Email: amoody.engineer@gmail.com
 
 What I've Been Working On
 ------
