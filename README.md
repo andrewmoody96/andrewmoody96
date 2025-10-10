@@ -48,7 +48,6 @@ Contact
 What I've Been Working On
 ------
   - [Chocolate In Your Pocket](https://github.com/andrewmoody96/ciyp) A site for my band, Chocolate In Your Pocket Built using React, NodeJS/Express, TailwindCSS, & MongoDB Atlas.
-  - [Gremlen Studios](https://www.gremlenstudios.com/) Working on this site for Gremlen Studios in Aurora, IL. Learning how to use the Wix API in the process.
 
 More About Me
 ------
