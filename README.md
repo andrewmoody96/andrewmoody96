@@ -47,7 +47,7 @@ Contact
 
 What I've Been Working On
 ------
-  - [Chocolate In Your Pocket](https://github.com/andrewmoody96/ciyp) A site for my band, Chocolate In Your Pocket Built using React, NodeJS/Express, TailwindCSS, & MongoDB Atlas.
+  - [Chocolate In Your Pocket](https://chocolateinyourpocket.com) A site for my band, Chocolate In Your Pocket Built using React, NodeJS/Express, TailwindCSS, & MongoDB Atlas.
 
 More About Me
 ------
