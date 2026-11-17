@@ -10,14 +10,15 @@ Skills
 ![HTML](https://img.shields.io/badge/HTML-%23E34F26.svg?logo=html5&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000)
 ![Markdown](https://img.shields.io/badge/Markdown-%23000000.svg?logo=markdown&logoColor=white)
+![Perl](https://img.shields.io/badge/Perl-39457E.svg?&logo=perl&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff)
 
 ##### Frameworks:
-![Django](https://img.shields.io/badge/Django-%23092E20.svg?logo=django&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-%23404d59.svg?logo=express&logoColor=%2361DAFB)
 ![jQuery](https://img.shields.io/badge/jQuery-0769AD?logo=jquery&logoColor=fff)
 ![NodeJS](https://img.shields.io/badge/Node.js-6DA55F?logo=node.js&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff)
 ![React](https://img.shields.io/badge/React-%2320232a.svg?logo=react&logoColor=%2361DAFB)
 ![React Router](https://img.shields.io/badge/React_Router-CA4245?logo=react-router&logoColor=white)
 ![Remix](https://img.shields.io/badge/Remix-000?logo=remix&logoColor=fff)
@@ -53,8 +54,8 @@ More About Me
 ------
 #### Learning:
 ![Django](https://img.shields.io/badge/Django-%23092E20.svg?logo=django&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff)
 ![Postgres](https://img.shields.io/badge/Postgres-%23316192.svg?logo=postgresql&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff)
 
 #### 🎧 Ask me about the music I'm working on!
 <a href="https://linktr.ee/chocolateinyourpocket?target=_blank" target="_blank">Listen Now!</a>
